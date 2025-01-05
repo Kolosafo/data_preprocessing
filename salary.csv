@@ -1,0 +1,11 @@
+country,age,salary,purchased
+nigeria,27,72000,no
+ghana,,48000,yes
+cameroon,39,52000,yes
+ghana,23,33000,no
+ghana,,,yes
+nigeria,40,32300,yes
+cameroon,32,24000,no
+nigeria,28,66000,no
+nigeria,,,no
+ghana,26,55000,yes
